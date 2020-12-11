@@ -52,6 +52,4 @@ Python环境装好后，安装以下驱动
 
 ![导出结果](images/python-export-dictionary.png)
 
-### 方式三、MySQL-Front
 
-### ~~方式四、DBExportDoc~~
